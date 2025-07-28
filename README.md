@@ -55,3 +55,20 @@ PeadZ es una aplicación de escritorio minimalista para macOS desarrollada en **
 
    ```bash
    git clone https://github.com/Jorgito091/PeadZ.git
+2. Abre el proyecto en Xcode
+   ```bash
+   open PeadZ/PeadZ.xcodeproj
+3.Compila y ejecuta el proyecto con el boton  ▶️ en Xcode.
+
+##📌 Estado del proyecto
+
+PeadZ está en desarrollo activo. Las funciones básicas ya están implementadas, pero se planea agregar:
+	•	📝 Soporte para anotaciones y subrayado.
+	•	☁️ Sincronización con iCloud Drive.
+	•	🔍 Búsqueda de texto dentro de los PDFs.
+	•	🎯 Sistema de favoritos global.
+	•	🎨 Más opciones de personalización visual.
+
+##Creditos 
+Desarrollado por Jorge Eduardo Torres Ochoa 
+
